@@ -6,7 +6,7 @@
 /*   By: dborgian <dborgian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/10 14:51:17 by dborgian          #+#    #+#             */
-/*   Updated: 2023/03/31 16:18:59 by dborgian         ###   ########.fr       */
+/*   Updated: 2023/04/03 13:24:03 by dborgian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@
 # include <fcntl.h>
 # include <sys/uio.h>
 # include <mlx.h>
-# include "mylibft/libft.h"
+# include "libft/libft.h"
 # include <time.h>
 
 typedef struct	s_vars{

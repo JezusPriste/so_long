@@ -6,13 +6,13 @@
 #    By: dborgian <dborgian@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/03/07 16:05:25 by dborgian          #+#    #+#              #
-#    Updated: 2023/03/31 15:41:00 by dborgian         ###   ########.fr        #
+#    Updated: 2023/04/03 13:20:13 by dborgian         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 MINILIBX_PATH	=	./mlx
 MINILIBX		=	$(MINILIBX_PATH)/libmlx.a
-LIBFT_PATH		=	./mylibft
+LIBFT_PATH		=	./libft
 LIBFT			=	$(LIBFT_PATH)/libft.a
 
 SOURCES = 	so_long.c \

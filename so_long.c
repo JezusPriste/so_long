@@ -6,11 +6,11 @@
 /*   By: dborgian <dborgian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/10 15:34:36 by dborgian          #+#    #+#             */
-/*   Updated: 2023/03/31 15:12:57 by dborgian         ###   ########.fr       */
+/*   Updated: 2023/04/03 13:24:51 by dborgian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "mylibft/libft.h"
+#include "libft/libft.h"
 #include "so_long.h"
 
 int	xclose(t_vars *vars)
