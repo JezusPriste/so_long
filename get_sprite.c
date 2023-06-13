@@ -6,7 +6,7 @@
 /*   By: dborgian <dborgian@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/29 18:42:05 by dborgian          #+#    #+#             */
-/*   Updated: 2023/03/30 19:27:34 by dborgian         ###   ########.fr       */
+/*   Updated: 2023/06/13 18:27:01 by dborgian         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -73,7 +73,7 @@ int	get_cella_and_logo(t_vars *vars)
 	if (!vars->cella)
 		return (0);
 	vars->logo = mlx_xpm_file_to_image(vars->mlx,
-			"./spites/logobull.xpm", &x, &y);
+			"./spites/AnyConv.com__exit_dami_00.xpm", &x, &y);
 	if (!vars->logo)
 		return (0);
 	return (1);
